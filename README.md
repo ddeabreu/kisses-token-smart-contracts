@@ -1,2 +1,2 @@
-# kisses-token-smart-contracts
-The KISSES token smart contracts
+#Token-smart-contracts
+Exemple de Token smart contracts
